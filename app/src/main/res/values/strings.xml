@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Html class</string>
+    <string name="basic_usage">Html class - basic usage</string>
+    <string name="images">Html class - images</string>
+    <string name="unsupported_tags">Html class - unsupported tags</string>
+
+    <string name="basic_usage_lorem"><![CDATA[<b>Lorem ipsum dolor</b> sit <u>amet</u>, consectetur <font color="green">adipiscing</font> elit. <i>Cras ut magna eget erat fermentum dignissim.</i> Aenean interdum ultrices sapien<sup>1</sup>. <font color="red">Vestibulum feugiat ultrices neque, vel pretium massa. Etiam tempor luctus dui eget aliquam.</font> In nec metus sit amet orci facilisis pretium.]]></string>
+    <string name="images_lorem"><![CDATA[<img src="ic_launcher.png" /><br/><b>Lorem ipsum dolor</b> sit <u>amet</u>, consectetur <font color="green">adipiscing</font> elit. <i>Cras ut magna eget erat fermentum dignissim.</i> Aenean interdum ultrices sapien<sup>1</sup>. <font color="red">Vestibulum feugiat ultrices neque, vel pretium massa. Etiam tempor luctus dui eget aliquam.</font> In nec metus sit amet orci facilisis pretium.]]></string>
+    <string name="unsupported_tags_lorem"><![CDATA[<b>Lorem ipsum dolor</b> sit <u>amet</u>, consectetur <font color="green">adipiscing</font> elit. <i>Cras ut magna eget erat fermentum dignissim.</i> Aenean interdum ultrices sapien<sup>1</sup>. <font color="red">Vestibulum feugiat ultrices neque, vel pretium massa. Etiam tempor luctus dui eget aliquam.</font> <strike>In nec metus sit amet orci facilisis pretium.</strike>]]></string>
+</resources>

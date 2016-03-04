@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="me.ziem.html_class"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="me.ziem.html_class.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="me.ziem.html_class.BasicUsageActivity"
+            android:label="@string/basic_usage"/>
+        <activity
+            android:name="me.ziem.html_class.ImagesActivity"
+            android:label="@string/images"/>
+        <activity
+            android:name="me.ziem.html_class.UnsupportedTagsActivity"
+            android:label="@string/unsupported_tags"/>
+    </application>
+
+</manifest>
